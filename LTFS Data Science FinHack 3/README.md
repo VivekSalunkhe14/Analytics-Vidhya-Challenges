@@ -8,9 +8,9 @@ L&T Financial Services & Analytics Vidhya presents ‘Data Science FinHack 3’
 
 The major focus of this comeptition was to develop a model for an interesting business challenge of Upsell Prediction for L&T Financial Services (LTFS)
 
-# Dataset
-
 # Evaluation Criteria
+
+F1_Score_Macro
 
 # Leaderboard Ranking
 
