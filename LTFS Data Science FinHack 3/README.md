@@ -17,3 +17,5 @@ F1_Score_Macro
 Public LB Rank - 91
 
 Private LB Rank - 75
+
+Total Teams - 504
